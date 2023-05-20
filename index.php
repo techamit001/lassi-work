@@ -30,7 +30,7 @@
                         </li>
                         <li data-index="rs-2" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
                             <img src="images/transparent.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
-                            <div class="tp-caption Hotcoffee-style-1 tp-resizeme rs-parallaxlevel-2" id="slide-2-layer-1" data-x="center" data-hoffset="" data-y="70" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">We made great coffee</div>
+                            <div class="tp-caption Hotcoffee-style-1 tp-resizeme rs-parallaxlevel-2" id="slide-2-layer-1" data-x="center" data-hoffset="" data-y="70" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">We made great Lassi</div>
                             <div class="tp-caption Hotcoffee-style-5 tp-resizeme rs-parallaxlevel-2" id="slide-2-layer-3" data-x="center" data-hoffset="" data-y="162" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">for our guests</div>
                             <div class="tp-caption tp-resizeme" id="slide-2-layer-7" data-x="853" data-y="512" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-responsive_offset="on">
                                 <img src="images/main_slider_el_5.png" alt="" width="391" height="216" data-ww="391px" data-hh="216px" data-no-retina>
@@ -88,8 +88,8 @@
                                                     <div class="wpb_text_column wpb_content_element ">
                                                         <div class="wpb_wrapper">
                                                             <p>
-                                                                From a cultural standpoint, coffeehouses largely serve as centers of social interaction:
-                                                                the coffeehouse provides patrons with a place to congregate,
+                                                                From a cultural standpoint, lassi houses largely serve as centers of social interaction:
+                                                                the lassi house provides patrons with a place to congregate,
                                                                 talk, read, write, entertain one another, or pass the time,<br />
                                                                 whether individually or in small groups.
                                                             </p>
@@ -152,7 +152,7 @@
                                             </div>
                                             <div class="sc_section aligncenter w80" data-animation="animated fadeInUp normal">
                                                 <div class="sc_section_inner">
-                                                    <h2 class="sc_title sc_title_regular sc_align_center margin_top_huge margin_bottom_small">coffee menu</h2>
+                                                    <h2 class="sc_title sc_title_regular sc_align_center margin_top_huge margin_bottom_small">Lassi menu</h2>
                                                     <div class="wpb_text_column wpb_content_element ">
                                                         <div class="wpb_wrapper">
                                                             <p>

@@ -42,9 +42,9 @@
                     <div class="content_wrap">
                         <div class="contact_logo">
                             <div class="logo">
-                                <a href="index.html">
-                                    <img src="images/logo.png" class="logo_main" alt="" width="128" height="124">
-                                    <img src="images/alternative-logo.png" class="logo_fixed" alt="" width="161" height="47">
+                                <a href="index.php">
+                                    <img src="images/lassilogo.png" class="logo_main" alt="" width="128" height="124">
+                                    <img src="images/lassilogo.png" class="logo_fixed" alt="" width="161" height="47">
                                 </a>
                             </div>
                         </div>
@@ -52,7 +52,7 @@
                             <a href="#" class="menu_main_responsive_button icon-menu"></a>
                             <nav class="menu_main_nav_area">
                                 <ul id="menu_main" class="menu_main_nav">
-                                    <li class="menu-item current-menu-item"><a href="index.php">Home</a></li>
+                                    <li class="menu-item "><a href="index.php">Home</a></li>
                                     <li class="menu-item"><a href="about.php">About Us</a></li>  
                                     <li class="menu-item"><a href="menu.php">Menu</a></li>
                                     <li class="menu-item"><a href="contacts.php">Contacts</a></li>
@@ -72,8 +72,8 @@
             <div class="content_wrap">
                 <div class="menu_button icon-menu"></div>
                 <div class="logo">
-                    <a href="index.html">
-                        <img src="images/logo.png" class="logo_main" alt="" width="128" height="124">
+                    <a href="index.php">
+                        <img src="images/lassilogo.png" class="logo_main" alt="" width="128" height="124">
                     </a>
                 </div>
                 
@@ -83,10 +83,10 @@
                 <div class="panel_top">
                     <nav class="menu_main_nav_area">
                         <ul id="menu_main_mobile" class="menu_main_nav">
-                        <li class="menu-item current-menu-item"><a href="index.html">Home</a></li>
-                                    <li class="menu-item"><a href="about.html">About Us</a></li>  
-                                    <li class="menu-item"><a href="menu.html">Menu</a></li>
-                                    <li class="menu-item"><a href="contacts.html">Contacts</a></li>
+                        <li class="menu-item "><a href="index.php">Home</a></li>
+                                    <li class="menu-item"><a href="about.php">About Us</a></li>  
+                                    <li class="menu-item"><a href="menu.php">Menu</a></li>
+                                    <li class="menu-item"><a href="contacts.php">Contacts</a></li>
                        
                         </ul>
                     </nav>

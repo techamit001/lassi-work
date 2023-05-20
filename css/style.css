@@ -1,48 +1,4 @@
 @charset 'utf-8';
-/*
-Project:		Hot Coffee HTML
-Version:		1.0.1
-Last change:	20/12/2017
-Assigned to:	Themerex
-Primary use:	Corporate
-*/
-
-
-/* TABLE OF CONTENTS:
-
-1. Reset tags
-2. Default tag's settings
-3. Form fields settings
-4. WP styles and Screen readers
-5. Theme grid
-6. Page layouts
-7. Section's decorations
-   7.1 Header
-   7.2 Main Slider
-   7.3 Page top: page title and breadcrumbs
-   7.4 Main content wrapper
-   7.5 Post Formats
-   7.6 Post Layouts
-   7.7 Paginations
-8. Single page parts
-   8.1 Attachment and Portfolio post navigation
-   8.2 Reviews block
-   8.3 Post author
-   8.4 Comments
-   8.5 Page 404
-   8.8 Team member
-9. Sidebars
-10. Footer areas
-11. Utils
-12. Registration and Login popups
-13. Third part plugins
-14. Predefined classes for users
-
--------------------------------------------------------------- */
-
-
-
-
 /* 1. Reset tags
 -------------------------------------------------------------- */
 html, body, div, span, applet, object, iframe,
@@ -1458,7 +1414,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 	overflow:hidden;
 }
 .top_panel_wrap .logo_main {
-	max-height:200px;
+	max-height:110px;
 	width:auto;
 }
 .logo a {
