@@ -52,10 +52,10 @@
                             <a href="#" class="menu_main_responsive_button icon-menu"></a>
                             <nav class="menu_main_nav_area">
                                 <ul id="menu_main" class="menu_main_nav">
-                                    <li class="menu-item current-menu-item"><a href="index.html">Home</a></li>
-                                    <li class="menu-item"><a href="about.html">About Us</a></li>  
-                                    <li class="menu-item"><a href="menu.html">Menu</a></li>
-                                    <li class="menu-item"><a href="contacts.html">Contacts</a></li>
+                                    <li class="menu-item current-menu-item"><a href="index.php">Home</a></li>
+                                    <li class="menu-item"><a href="about.php">About Us</a></li>  
+                                    <li class="menu-item"><a href="menu.php">Menu</a></li>
+                                    <li class="menu-item"><a href="contacts.php">Contacts</a></li>
                                     
                                     
                                     
