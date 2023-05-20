@@ -43,8 +43,8 @@
                         <div class="contact_logo">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="images/lassilogo.png" class="logo_main" alt="" width="128" height="124">
-                                    <img src="images/lassilogo.png" class="logo_fixed" alt="" width="161" height="47">
+                                    <img src="images/newlogo.png" class="logo_main" alt="" width="128" height="124">
+                                    <img src="images/newlogo.png" class="logo_fixed" alt="" width="161" height="47">
                                 </a>
                             </div>
                         </div>
@@ -73,7 +73,7 @@
                 <div class="menu_button icon-menu"></div>
                 <div class="logo">
                     <a href="index.php">
-                        <img src="images/lassilogo.png" class="logo_main" alt="" width="128" height="124">
+                        <img src="images/newlogo.png" class="logo_main" alt="" width="128" height="124">
                     </a>
                 </div>
                 
