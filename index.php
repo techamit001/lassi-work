@@ -7,7 +7,7 @@
                             <img src="images/transparent.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption Hotcoffee-style-1 tp-resizeme rs-parallaxlevel-1" id="slide-3-layer-1" data-x="30" data-y="114" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Fresh and Tasty</div>
                             <div class="tp-caption Hotcoffee-style-2 tp-resizeme rs-parallaxlevel-1" id="slide-3-layer-2" data-x="41" data-y="335" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">in the morning</div>
-                            <div class="tp-caption Hotcoffee-style-3 tp-resizeme rs-parallaxlevel-1" id="slide-3-layer-3" data-x="30" data-y="196" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">coffee</div>
+                            <div class="tp-caption Hotcoffee-style-3 tp-resizeme rs-parallaxlevel-1" id="slide-3-layer-3" data-x="30" data-y="196" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Lassi</div>
                             <div class="tp-caption Hotcoffee-style-4 tp-resizeme rs-parallaxlevel-1" id="slide-3-layer-4" data-x="547" data-y="618" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Where to buy?</div>
                             <div class="tp-caption tp-resizeme rs-parallaxlevel-2" id="slide-3-layer-5" data-x="742" data-y="62" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-responsive_offset="on">
                                 <img src="images/main_cup.png" alt="" width="458" height="540" data-ww="458px" data-hh="540px" data-no-retina>
@@ -82,7 +82,7 @@
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
                                     <div class="vc_column-inner ">
                                         <div class="wpb_wrapper">
-                                            <h2 class="sc_title sc_title_regular sc_align_center margin_top_tiny margin_bottom_small" data-animation="animated fadeInUp normal">Welcome to our coffee house</h2>
+                                            <h2 class="sc_title sc_title_regular sc_align_center margin_top_tiny margin_bottom_small" data-animation="animated fadeInUp normal">Welcome to our Lassi house</h2>
                                             <div class="sc_section margin_bottom_huge aligncenter w80" data-animation="animated fadeInUp normal">
                                                 <div class="sc_section_inner">
                                                     <div class="wpb_text_column wpb_content_element ">
@@ -122,9 +122,7 @@
                                                                             <div class="wpb_text_column wpb_content_element vc_custom_1455040756358">
                                                                                 <div class="wpb_wrapper">
                                                                                     <p>
-                                                                                        The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier.
-                                                                                        Once the beans are roasted each participant is given an opportunity to sample the aromatic
-                                                                                        smoke by wafting it towards them. This is followed by the grinding.
+                                                                                    lassi, a creamy, frothy yogurt-based drink, blended with water and various fruits or seasonings (such as salt or sugar), that originated in Punjab, India.
                                                                                     </p>
                                                                                 </div>
                                                                             </div>
@@ -237,14 +235,14 @@
                                                         <div class="column-1_3 column_padding_bottom">
                                                             <div id="sc_services_258_5" class="sc_services_item">
                                                                 <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-image="images/menu1.png" data-title="Irish Coffee">
+                                                                    <div class="post_thumb" data-image="images/menu1.png" data-title="Lassi">
                                                                         <a class="hover_icon hover_icon_link" href="single-post.html">
                                                                             <img alt="" src="images/menu1.png">
                                                                         </a>
                                                                     </div>
                                                                 </div>
                                                                 <h4 class="sc_services_item_title">
-                                                                    <a href="single-post.html">Irish Coffee</a>
+                                                                    <a href="single-post.html">Mango Lassi</a>
                                                                 </h4>
                                                             </div>
                                                         </div>
@@ -298,10 +296,10 @@
                                                         <ul>
                                                             <li data-index="rs-4" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
                                                                 <img src="images/transparent.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                                <div class="tp-caption Hotcoffee-style-7 tp-resizeme" id="slide-4-layer-1" data-x="643" data-y="238" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Black Tea</div>
+                                                                <div class="tp-caption Hotcoffee-style-7 tp-resizeme" id="slide-4-layer-1" data-x="643" data-y="238" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Mango Lassi</div>
                                                                 <div class="tp-caption Hotcoffee-style-8 tp-resizeme" id="slide-4-layer-2" data-x="645" data-y="359" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                                                    ESPRESSO BLEND <br/>
-                                                                    Locally Roasted
+                                                                    Mango Pulp Lassi <br/>
+                                                                    Locally made
                                                                 </div>
                                                                 <div class="tp-caption Hotcoffee-style-9 tp-resizeme" id="slide-4-layer-3" data-x="645" data-y="454" data-width="['auto']" data-height="['auto']" data-visibility="['on','on','on','off']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
                                                                     Enjoy the exquisite savor of our black tea selection<br/>
@@ -320,15 +318,13 @@
                                                             </li>
                                                             <li data-index="rs-5" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
                                                                 <img src="images/transparent.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                                <div class="tp-caption Hotcoffee-style-7 tp-resizeme" id="slide-5-layer-1" data-x="643" data-y="238" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Iced Coffee</div>
+                                                                <div class="tp-caption Hotcoffee-style-7 tp-resizeme" id="slide-5-layer-1" data-x="643" data-y="238" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Classic Lassi</div>
                                                                 <div class="tp-caption Hotcoffee-style-8 tp-resizeme" id="slide-5-layer-2" data-x="645" data-y="359" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                                                    ESPRESSO BLEND <br/>
-                                                                    Locally Roasted
+                                                                    Dry Fruit Lassi <br/>
+                                                                    Locally made with dry fruits
                                                                 </div>
                                                                 <div class="tp-caption Hotcoffee-style-9 tp-resizeme" id="slide-5-layer-3" data-x="645" data-y="454" data-width="['auto']" data-height="['auto']" data-visibility="['on','on','on','off']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                                                    Delicate crispy taste of the finest coffee grains is <br/>
-                                                                    combined with fresh creamy milk, poured right on <br/>
-                                                                    cooling ice for serving
+                                                                lassi, a creamy, frothy yogurt-based drink, blended with water and various fruits<br> or seasonings (such as salt or sugar), that originated in Punjab, India.
                                                                 </div>
                                                                 <div class="tp-caption no-style" id="slide-5-layer-4" data-x="654" data-y="565" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off">
                                                                     <a href="menu.html" class="sc_button sc_button_square sc_button_style_border_2 sc_button_size_medium">view full menu</a>
@@ -342,15 +338,13 @@
                                                             </li>
                                                             <li data-index="rs-6" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
                                                                 <img src="images/transparent.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                                <div class="tp-caption Hotcoffee-style-7 tp-resizeme" id="slide-6-layer-1" data-x="643" data-y="238" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Espresso</div>
+                                                                <div class="tp-caption Hotcoffee-style-7 tp-resizeme" id="slide-6-layer-1" data-x="643" data-y="238" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Stawberry Lassi</div>
                                                                 <div class="tp-caption Hotcoffee-style-8 tp-resizeme" id="slide-6-layer-2" data-x="645" data-y="359" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                                                    ESPRESSO BLEND <br/>
-                                                                    Locally Roasted
+                                                                    Stawberry Lassi <br/>
+                                                                    Locally made
                                                                 </div>
                                                                 <div class="tp-caption Hotcoffee-style-9 tp-resizeme" id="slide-6-layer-3" data-x="645" data-y="454" data-width="['auto']" data-height="['auto']" data-visibility="['on','on','on','off']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                                                    Every cup is a performance of throroughly pressured hot <br/>
-                                                                    water through the finest delicious and finely <br/>
-                                                                    ground compacted coffee
+                                                                lassi, a creamy, frothy yogurt-based drink, blended with water and various fruits<br> or seasonings (such as salt or sugar), that originated in Punjab, India.
                                                                 </div>
                                                                 <div class="tp-caption no-style" id="slide-6-layer-4" data-x="654" data-y="565" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off">
                                                                     <a href="menu.html" class="sc_button sc_button_square sc_button_style_border_2 sc_button_size_medium">view full menu</a>

@@ -22,7 +22,7 @@
                                     <div class="vc_column-inner ">
                                         <div class="wpb_wrapper">
                                             <div class="sc_content content_wrap">
-                                                <h2 class="sc_title sc_title_regular sc_align_center margin_top_null margin_bottom_small">Hello! We are hot coffee!</h2>
+                                                <h2 class="sc_title sc_title_regular sc_align_center margin_top_null margin_bottom_small">Hello! We are Cold Lassi!</h2>
                                                 <div class="sc_section margin_bottom_huge aligncenter">
                                                     <div class="sc_section_inner">
                                                         <div class="wpb_text_column wpb_content_element ">
@@ -57,9 +57,7 @@
                                                             <div class="wpb_text_column wpb_content_element  vc_custom_1455040756358">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                        The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier.
-                                                                        Once the beans are roasted each participant is given an opportunity to sample the aromatic smoke by wafting it towards them.
-                                                                        This is followed by the grinding.
+                                                                    lassi, a creamy, frothy yogurt-based drink, blended with water and various fruits or seasonings (such as salt or sugar), that originated in Punjab, India.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -84,9 +82,9 @@
                                                     <div class="wpb_text_column wpb_content_element ">
                                                         <div class="wpb_wrapper">
                                                             <p class="centext">
-                                                                A coffee ceremony is a ritualised form of making and drinking coffee. The coffee ceremony is one of the most
-                                                                recognizable parts of Ethiopian culture and Eritrean culture.
-                                                                Coffee is offered when visiting friends, during festivities, or as a daily staple of life.
+                                                            It has been called "the most popular and traditional yogurt-based drink" in India. It has also been described as the form in which yogurt "is most cherished and unbeatably popular in...
+...
+Lassi.
                                                             </p>
 
                                                         </div>
