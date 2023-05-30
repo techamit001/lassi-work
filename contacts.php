@@ -29,7 +29,7 @@
                                                         <div class="wpb_wrapper">
                                                             <p>
                                                                 Every Monday to Sunday, we’re are open. <br />
-                                                                Open hours: 8.00-18.00 Mon-Sat <br />
+                                                                Open hours: 9 AM - 10 PM <br />
                                                                 Call our reservations team on <br />(+91) 90641 09898 for more information.
                                                             </p>
                                                         </div>

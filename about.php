@@ -25,15 +25,14 @@
                                                 <h2 class="sc_title sc_title_regular sc_align_center margin_top_null margin_bottom_small">Hello! We are Cold Lassi!</h2>
                                                 <div class="sc_section margin_bottom_huge aligncenter">
                                                     <div class="sc_section_inner">
-                                                        <div class="wpb_text_column wpb_content_element ">
+                                                       <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p class="centext">
-                                                                    Donec non cursus sapien, vel aliquet dui cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus muslorem.
-                                                                    Donec non cursus sapien, vel aliquet dui cum sociis natoque penatibus magnis dis parturient montes nascetur ridiculus muslorem.
+                                                                   At Lassi Joy, we use only the freshest ingredients to make our lassis. We offer ranges from BEVERAGES (Lassi, Milkshake, Cold Coffee, Falooda, Body Coolers, Juices), and SNACKS (Sandwiches, French Fries, Maggie, Momos, etc), ensuring that they are not only delicious but also healthy and nutritious.
                                                                 </p>
                                                             </div>
-                                                        </div>
-                                                        <a href="#" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_large margin_top_medium">purchase</a>
+                                                        </div> 
+                                                        <!-- <a href="#" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_large margin_top_medium">purchase</a> -->
                                                     </div>
                                                 </div>
                                             </div>
@@ -61,7 +60,7 @@
                                                                     </p>
                                                                 </div>
                                                             </div>
-                                                            <a href="#" class="sc_button sc_button_square sc_button_style_style sc_button_size_small margin_top_small margin_bottom_small">Read more&#8230;</a>
+                                                            <a href="menu.php" class="sc_button sc_button_square sc_button_style_style sc_button_size_small margin_top_small margin_bottom_small">Read more&#8230;</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -82,9 +81,7 @@
                                                     <div class="wpb_text_column wpb_content_element ">
                                                         <div class="wpb_wrapper">
                                                             <p class="centext">
-                                                            It has been called "the most popular and traditional yogurt-based drink" in India. It has also been described as the form in which yogurt "is most cherished and unbeatably popular in...
-...
-Lassi.
+                                                            It has been called "the most popular and traditional yogurt-based drink" in India. It has also been described as the form in which yogurt "is most cherished and unbeatably popular in Lassi.
                                                             </p>
 
                                                         </div>
@@ -95,9 +92,9 @@ Lassi.
                                                 <div class="columns_wrap sc_skills_columns sc_skills_columns_4">
                                                     <div class="sc_skills_column column-1_4">
                                                         <div class="sc_skills_item sc_skills_style_2">
-                                                            <div class="sc_skills_icon icon-cake28"></div>
+                                                            <div class="sc_skills_icon icon-bell"></div>
                                                             <div class="sc_skills_info">
-                                                                <div class="sc_skills_label">tickets answered</div>
+                                                                <div class="sc_skills_label">Cutomer Visited</div>
                                                             </div>
                                                             <div class="sc_skills_count">
                                                                 <div class="sc_skills_total" data-start="0" data-stop="3562" data-step="36" data-max="3562" data-speed="12" data-duration="1187" data-ed="">0</div>
@@ -108,25 +105,25 @@ Lassi.
                                                         <div class="sc_skills_item sc_skills_style_2">
                                                             <div class="sc_skills_icon icon-scale21"></div>
                                                             <div class="sc_skills_info">
-                                                                <div class="sc_skills_label">google fonts</div>
+                                                                <div class="sc_skills_label">Total Varaties</div>
                                                             </div>
                                                             <div class="sc_skills_count">
-                                                                <div class="sc_skills_total" data-start="0" data-stop="699" data-step="36" data-max="3562" data-speed="23" data-duration="447" data-ed="">0</div>
+                                                                <div class="sc_skills_total" data-start="0" data-stop="50" data-step="10" data-max="50" data-speed="3" data-duration="4" data-ed="">0</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="sc_skills_column column-1_4">
                                                         <div class="sc_skills_item sc_skills_style_2">
-                                                            <div class="sc_skills_icon icon-drink76"></div>
+                                                            <div class="sc_skills_icon icon-heart"></div>
                                                             <div class="sc_skills_info">
-                                                                <div class="sc_skills_label">features added</div>
+                                                                <div class="sc_skills_label">flavored added</div>
                                                             </div>
                                                             <div class="sc_skills_count">
-                                                                <div class="sc_skills_total" data-start="0" data-stop="256" data-step="36" data-max="3562" data-speed="10" data-duration="71" data-ed="">0</div>
+                                                                <div class="sc_skills_total" data-start="0" data-stop="30" data-step="6" data-max="3562" data-speed="3" data-duration="7" data-ed="">0</div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="sc_skills_column column-1_4">
+                                                    <!-- <div class="sc_skills_column column-1_4">
                                                         <div class="sc_skills_item sc_skills_style_2">
                                                             <div class="sc_skills_icon icon-bakery9"></div>
                                                             <div class="sc_skills_info">
@@ -136,14 +133,14 @@ Lassi.
                                                                 <div class="sc_skills_total" data-start="0" data-stop="4573" data-step="46" data-max="4573" data-speed="37" data-duration="3678" data-ed="">0</div>
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
-                                            <div class="sc_section aligncenter">
+                                            <!-- <div class="sc_section aligncenter">
                                                 <div class="sc_section_inner">
                                                     <a href="#" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_large margin_top_large margin_bottom_large">purchase</a>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>

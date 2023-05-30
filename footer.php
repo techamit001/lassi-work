@@ -12,6 +12,7 @@
                 </div>
                 <address class="address_right">
                     Phone: (+91) 906-410-9898<br>
+                    Mail Us: Hello@lassijoy.com
                   
                 </address>
                 <address class="address_left">
