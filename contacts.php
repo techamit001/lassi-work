@@ -28,14 +28,13 @@
                                                     <div class="wpb_text_column wpb_content_element ">
                                                         <div class="wpb_wrapper">
                                                             <p>
-                                                                Every Monday, Tuesday and Wednesday evening, we’re offering groups of 10 or more
-                                                                that book an area in our bar a complimentary bottle of Champagne. <br />
+                                                                Every Monday to Sunday, we’re are open. <br />
                                                                 Open hours: 8.00-18.00 Mon-Sat <br />
-                                                                Call our reservations team on (027) 8338 145 for more information.
+                                                                Call our reservations team on <br />(+91) 90641 09898 for more information.
                                                             </p>
                                                         </div>
                                                     </div>
-                                                    <a href="/reservations" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_medium margin_top_medium">reservation</a>
+                                                    <!-- <a href="/reservations" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_medium margin_top_medium">reservation</a> -->
                                                 </div>
                                             </div>
                                             <div class="sc_section aligncenter w70">
@@ -56,21 +55,21 @@
                                                     <h5 class="sc_title sc_title_regular margin_top_small">follow us</h5>
                                                     <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_medium">
                                                         <div class="sc_socials_item">
-                                                            <a href="#" target="_blank" class="social_icons social_twitter">
+                                                            <!-- <a href="#" target="_blank" class="social_icons social_twitter">
                                                                 <span class="icon-twitter"></span>
-                                                            </a>
+                                                            </a> -->
                                                         </div>
                                                         <div class="sc_socials_item">
-                                                            <a href="#" target="_blank" class="social_icons social_facebook">
+                                                            <a href="https://www.facebook.com/lassijoy" target="_blank" class="social_icons social_facebook">
                                                                 <span class="icon-facebook"></span>
                                                             </a>
                                                         </div>
                                                         <div class="sc_socials_item">
-                                                            <a href="#" target="_blank" class="social_icons social_gplus">
-                                                                <span class="icon-gplus"></span>
+                                                            <a href="https://www.instagram.com/lassijoy/" target="_blank" class="social_icons icon-instagramm">
+                                                                <span class="icon-instagramm"></span>
                                                             </a>
                                                         </div>
-                                                        <div class="sc_socials_item">
+                                                        <!-- <div class="sc_socials_item">
                                                             <a href="#" target="_blank" class="social_icons social_linkedin">
                                                                 <span class="icon-linkedin"></span>
                                                             </a>
@@ -79,7 +78,7 @@
                                                             <a href="#" target="_blank" class="social_icons social_skype">
                                                                 <span class="icon-skype"></span>
                                                             </a>
-                                                        </div>
+                                                        </div> -->
                                                     </div>
                                                     <div id="sc_form_132_wrap" class="sc_form_wrap">
                                                         <div id="sc_form_132" class="sc_form sc_form_style_form_1 margin_top_small margin_bottom_medium">

@@ -8,30 +8,28 @@
             </div>
             <div class="contacts_address">
                 <div class="about_company">
-                    Morbi sed justo felis. Phasellus condimentum ornare maximus.
-                    Nulla convallis tortor pellentesque tortor vulputate, eget bibendum nibh interdum.
+                At Lassi Joy, we use only the freshest ingredients to make our lassis. We offer ranges from BEVERAGES (Lassi, Milkshake, Cold Coffee, Falooda, Body Coolers, Juices), and SNACKS (Sandwiches, French Fries, Maggie, Momos, etc), ensuring that they are not only delicious but also healthy and nutritious.
                 </div>
                 <address class="address_right">
-                    Phone: 888-456-7890<br>
-                    Fax: 889-098-7654
+                    Phone: (+91) 906-410-9898<br>
+                  
                 </address>
                 <address class="address_left">
-                    Chicago, IL 60606<br>
-                    123, New Lenox
+                DVC More, Burdwan, Sreepally<br/> West Bengal - 713103 
                 </address>
             </div>
             <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_medium">
-                <div class="sc_socials_item">
+                <!-- <div class="sc_socials_item">
                     <a href="#" target="_blank" class="social_icons social_twitter">
                         <span class="icon-twitter"></span>
                     </a>
-                </div>
+                </div> -->
                 <div class="sc_socials_item">
-                    <a href="#" target="_blank" class="social_icons social_facebook">
+                    <a href="https://www.facebook.com/lassijoy" target="_blank" class="social_icons social_facebook">
                         <span class="icon-facebook"></span>
                     </a>
                 </div>
-                <div class="sc_socials_item">
+                <!-- <div class="sc_socials_item">
                     <a href="#" target="_blank" class="social_icons social_gplus">
                         <span class="icon-gplus"></span>
                     </a>
@@ -40,10 +38,10 @@
                     <a href="#" target="_blank" class="social_icons social_linkedin">
                         <span class="icon-linkedin"></span>
                     </a>
-                </div>
+                </div> -->
                 <div class="sc_socials_item">
-                    <a href="#" target="_blank" class="social_icons social_skype">
-                        <span class="icon-skype"></span>
+                    <a href="https://www.instagram.com/lassijoy" target="_blank" class="social_icons icon-instagramm">
+                        <span class="icon-icon-instagramm"></span>
                     </a>
                 </div>
             </div>
