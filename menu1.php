@@ -690,7 +690,7 @@
                                                             <p>“I’m looking to nature for my inspiration. Letting the natural produce speak. There’s so much out there, so much elegance and beauty.” &#8211; PETER GILMORE</p>
                                                         </div>
                                                     </div>
-                                                    <a href="#" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_medium margin_top_medium margin_bottom_large">view full menu</a>
+                                                    <!-- <a href="#" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_medium margin_top_medium margin_bottom_large">view full menu</a> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -703,7 +703,7 @@
                 </div>
             </div>
         </div>
-        <footer class="contacts_wrap scheme_original">
+        <!-- <footer class="contacts_wrap scheme_original">
             <div class="contacts_wrap_inner">
                 <div class="content_wrap">
                     <div class="logo">
@@ -849,7 +849,8 @@
             <div class="result message_block"></div>
         </div>
     </div>
-</div>
+</div> -->
+<?php include "footer.php"?>
 
 <a href="#" class="scroll_to_top icon-up" title="Scroll to top"></a>
 <div class="custom_html_section"></div>
