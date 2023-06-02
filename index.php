@@ -186,7 +186,7 @@
                                                             </div>
                                                         </div>
                                                         <h4 class="sc_services_item_title">
-                                                            <a>Corretto</a>
+                                                            <a>Mango Lassi</a>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -200,7 +200,7 @@
                                                             </div>
                                                         </div>
                                                         <h4 class="sc_services_item_title">
-                                                            <a>Cioccolato-macchiato</a>
+                                                            <a>Kitkat Milkshake</a>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -214,7 +214,7 @@
                                                             </div>
                                                         </div>
                                                         <h4 class="sc_services_item_title">
-                                                            <a>Espresso</a>
+                                                            <a>CLassic coffee</a>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -228,7 +228,7 @@
                                                             </div>
                                                         </div>
                                                         <h4 class="sc_services_item_title">
-                                                            <a>Caramel Macchiatto</a>
+                                                            <a>Caramel coffee</a>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -242,7 +242,7 @@
                                                             </div>
                                                         </div>
                                                         <h4 class="sc_services_item_title">
-                                                            <a>Mango Lassi</a>
+                                                            <a>Fresh Juices</a>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -256,7 +256,7 @@
                                                             </div>
                                                         </div>
                                                         <h4 class="sc_services_item_title">
-                                                            <a>Americano</a>
+                                                            <a>Kulfi & Falooda</a>
                                                         </h4>
                                                     </div>
                                                 </div>
