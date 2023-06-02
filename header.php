@@ -54,7 +54,7 @@
                                 <ul id="menu_main" class="menu_main_nav">
                                     <li class="menu-item "><a href="index.php">Home</a></li>
                                     <li class="menu-item"><a href="about.php">About Us</a></li>  
-                                    <li class="menu-item"><a href="menu.php">Menu</a></li>
+                                    <li class="menu-item"><a href="menu1.php">Menu</a></li>
                                     <li class="menu-item"><a href="contacts.php">Contacts</a></li>
                                     
                                     
