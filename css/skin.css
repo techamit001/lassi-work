@@ -54,7 +54,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-	color: #453e3c;
+	color: #c90606;
 }
 .scheme_dark h1,
 .scheme_dark h2,
@@ -68,7 +68,7 @@ h6 a {
 .scheme_dark h4 a,
 .scheme_dark h5 a,
 .scheme_dark h6 a {
-	color: #e0e0e0;
+	color: #c90606;
 }
 .scheme_light h1,
 .scheme_light h2,
@@ -82,14 +82,14 @@ h6 a {
 .scheme_light h4 a,
 .scheme_light h5 a,
 .scheme_light h6 a {
-	color: #232a34;
+	color: #c90606;
 }
 blockquote::before {
-	color: rgba(35, 42, 52, 0.1);
+	color:#c90606;
 }
 blockquote,
 blockquote p {
-	color: #656160;
+	color: #c90606;
 }
 
 /* 2.1 Common colors
@@ -211,7 +211,7 @@ input[type="search"],
 input[type="password"],
 select,
 textarea {
-	color: #a6a19f;
+	color: #c90606;
     background-color: #fff;
     border: 2px solid #d5dedf;
     font-size: 0.889em;
@@ -296,7 +296,7 @@ textarea::-webkit-input-placeholder {
 	background: url(../../images/bg/image_1.jpg) no-repeat center top cover;
 }
 .body_style_boxed .body_wrap {
-	background-color: #ffffff;
+	background-color: #c90606;
 }
 
 
@@ -422,10 +422,10 @@ body,
 	color: #ffffff;
 }
 .menu_user_nav > li ul:not(.cart_list) {
-	border-color: #e4e7e8;
+	border-color: #c90606;
 }
 .menu_user_nav > li ul:not(.cart_list) {
-	background-color: #ffffff;
+	background-color: #c90606;
 }
 .top_panel_inner_style_1 .menu_user_nav > li > ul:after,
 .top_panel_inner_style_2 .menu_user_nav > li > ul:after {
@@ -512,19 +512,19 @@ body,
 
 /* Main menu */
 .menu_main_nav > li > a {
-	color: #222222;
+	color: #c90606;
 }
 .top_panel_inner_style_1 .menu_main_nav > li > a,
 .top_panel_inner_style_2 .menu_main_nav > li > a {
-	color: #ffffff;
+	color: #c90606;
 }
 .top_panel_inner_style_1 .menu_main_nav > li > a:hover,
 .top_panel_inner_style_2 .menu_main_nav > li > a:hover {
-	color: #ffffff;
+	color: #c90606;
 }
 .menu_main_nav > li ul {
-	color: #ffffff;
-	background-color: rgba(49,41,39,0.9);
+	color: #c90606;
+	background-color: #c90606;
 }
 .menu_main_nav > li > ul {
 	top: 4em;
@@ -572,7 +572,7 @@ body,
 .menu_main_nav > li.current-menu-item > a,
 .menu_main_nav > li.current-menu-parent > a,
 .menu_main_nav > li.current-menu-ancestor > a {
-    border-color: #131313;
+    border-color: #c90606;
     color: #222222;
 }
 
@@ -585,7 +585,7 @@ body,
 
 /* Responsive menu */
 .menu_main_responsive_button {
-	color: #8a8a8a;
+	color: #c90606;
 }
 .top_panel_inner_style_1 .menu_main_responsive_button,
 .top_panel_inner_style_2 .menu_main_responsive_button,
@@ -594,35 +594,35 @@ body,
 .top_panel_inner_style_1 .menu_main_responsive li.menu-item-has-children .open_child_menu:after,
 .top_panel_inner_style_2 .menu_main_responsive li.menu-item-has-children .open_child_menu:after
 {
-	color: #ffffff;
+	color: #c90606;
 }
 .top_panel_inner_style_1 .menu_main_responsive_button:hover,
 .top_panel_inner_style_2 .menu_main_responsive_button:hover,
 .top_panel_inner_style_1 .menu_main_responsive a:hover,
 .top_panel_inner_style_2 .menu_main_responsive a:hover {
-	color: #ffffff;
+	color: #c90606;
 }
 .menu_main_responsive {
-	background-color: #f7f7f7;
+	background-color: #c90606;
 }
 .menu_main_responsive li,
 .menu_main_responsive a {
-	color: #8a8a8a;
+	color: #c90606;
 }
 .menu_main_responsive a:hover {
-	background-color: #f0f0f0;
+	background-color: #c90606;
 }
 .top_panel_inner_style_1 .menu_main_responsive li,
 .top_panel_inner_style_1 .menu_main_responsive a,
 .top_panel_inner_style_2 .menu_main_responsive li,
 .top_panel_inner_style_2 .menu_main_responsive a {
-	color: #ffffff;
+	color: #c90606;
 }
 
 /* Contact fields */
 .top_panel_middle .contact_field,
 .top_panel_middle .contact_field > a {
-	color: #232a34;
+	color: #c90606;
 }
 .top_panel_middle .contact_icon {
 	color: #232323;
@@ -790,13 +790,13 @@ body,
     background-position: center center;
 }
 .top_panel_title_inner .page_title {
-	color: #453e3c;
+	color: #c90606;
 }
 .top_panel_title_inner .post_navi .post_navi_item a{
-	color: #232a34;
+	color: #c90606;
 }
 .top_panel_title_inner .breadcrumbs a.breadcrumbs_item {
-    color: #453e3c;
+    color: #c90606;
 }
 .top_panel_title_inner .post_navi .post_navi_item a:hover {
 	color: #acb4b6;
@@ -839,7 +839,7 @@ body,
 
 /* Hover icon */
 .hover_icon:after {
-	background-color: rgba(0,0,0,0.1);
+	background-color: #c90606;
 }
 
 /* Post info */
@@ -1126,7 +1126,7 @@ body,
 -------------------------------------------------------------- */
 /* Contacts */
 .contacts_wrap_inner {
-	color: #a6a19f;
+	color: #a69f9f;
 	background-color: #211f1e;
 }
 .scheme_dark .contacts_wrap_inner {

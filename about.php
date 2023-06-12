@@ -4,7 +4,7 @@
                 <div class="content_wrap">
                     <h1 class="page_title">About Us</h1>
                     <div class="breadcrumbs">
-                        <a class="breadcrumbs_item home" href="index.html">Home</a>
+                        <a class="breadcrumbs_item home" href="index.php">Home</a>
                         <span class="breadcrumbs_delimiter"></span>
                         <span class="breadcrumbs_item current">About Us</span>
                     </div>
