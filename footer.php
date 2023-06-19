@@ -53,7 +53,7 @@
     <div class="copyright_wrap_inner">
         <div class="content_wrap">
             <div class="copyright_text">
-                <a href="#">Lassi Joy</a> © 2023 All Rights Reserved
+                <a href="#">Lassi Joy</a> © <?php echo date("Y");?> All Rights Reserved
                 <a href="#">Desinged</a> by
                 <a href="https://wideup.in">Wideup</a>
             </div>

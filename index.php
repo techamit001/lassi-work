@@ -95,7 +95,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <a href="menu.php" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_large margin_top_medium margin_bottom_small">Check out our Menu</a>
+                                            <a href="menu1.php" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_large margin_top_medium margin_bottom_small">Check out our Menu</a>
                                         </div>
                                     </div>
                                 </div>
@@ -159,7 +159,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <a href="menu.html" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_medium margin_top_medium margin_bottom_large">view full menu</a>
+                                            <a href="menu1.php" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_medium margin_top_medium margin_bottom_large">view full menu</a>
                                         </div>
                                     </div>
                                 </div>
@@ -214,7 +214,7 @@
                                                             </div>
                                                         </div>
                                                         <h4 class="sc_services_item_title">
-                                                            <a>CLassic coffee</a>
+                                                            <a>Classic coffee</a>
                                                         </h4>
                                                     </div>
                                                 </div>

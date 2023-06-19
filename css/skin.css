@@ -1126,7 +1126,7 @@ body,
 -------------------------------------------------------------- */
 /* Contacts */
 .contacts_wrap_inner {
-	color: #a69f9f;
+	color: #ffffff;
 	background-color: #211f1e;
 }
 .scheme_dark .contacts_wrap_inner {
@@ -1158,10 +1158,10 @@ body,
     text-align: center;
 }
 .copyright_wrap_inner {
-	background-color: #211f1e;
+	background-color: #c90606;
 }
 .copyright_wrap_inner .copyright_text {
-	color: #a6a19f;
+	color: #ffffff;
 }
 .copyright_wrap_inner .copyright_text a {
     color: #ffffff;
@@ -1197,7 +1197,7 @@ body,
 	border: none;
 }
 .scroll_to_top {
-	color: #ffffff;
+	color: #c90606;
 }
 .scroll_to_top:hover {
 	color: #ffffff;

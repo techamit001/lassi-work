@@ -226,7 +226,7 @@ button:after,
     position: absolute;
     display: block;
     content: '';
-    border: 2px solid #009f3b;
+    border: 2px solid #c90606;
     height: 100%;
     width: 100%;
     left: -4px;
